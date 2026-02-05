@@ -25,10 +25,10 @@
 
 ### 🛠️ Tech Stack & Tools
 
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![3ds Max](https://img.shields.io/badge/3ds%20Max-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
 ![FiveM](https://img.shields.io/badge/FiveM-FF4D00?style=for-the-badge&logo=fivem&logoColor=white)
 ![GTA V](https://img.shields.io/badge/GTA_V-FFD700?style=for-the-badge&logo=rockstargames&logoColor=black)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![3ds Max](https://img.shields.io/badge/3ds%20Max-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
